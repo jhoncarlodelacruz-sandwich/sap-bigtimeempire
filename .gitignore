@@ -1,0 +1,15 @@
+# Ignore Password Files
+credentials.py
+
+# Ignore Virtual Environment folder
+.venv/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore compiled python files
+__pycache__/
+
+# Ignore Excel/Image outputs (optional, keeps repo clean)
+*.xlsx
+*.png
