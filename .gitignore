@@ -13,8 +13,4 @@ credentials.py
 
 # Ignore compiled python files
 __pycache__/
-
-# Ignore Excel/Image outputs (optional, keeps repo clean)
-*.xlsx
-*.png
 >>>>>>> 718e086e9d1b7ccb1383b99a3ed5c53299360acf
